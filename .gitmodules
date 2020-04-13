@@ -1,16 +1,16 @@
 [submodule "logdevice/external/rocksdb"]
 	path = logdevice/external/rocksdb
-	url = https://github.com/facebook/rocksdb/
+	url = https://gitee.com/shana89/rocksdb.git
 	branch = 6.6.fb
 [submodule "logdevice/external/folly"]
 	path = logdevice/external/folly
-	url = https://github.com/facebook/folly/
+	url = https://gitee.com/shana89/folly.git
 [submodule "logdevice/external/fizz"]
 	path = logdevice/external/fizz
-	url = https://github.com/facebookincubator/fizz/
+	url = https://gitee.com/shana89/fizz.git
 [submodule "logdevice/external/wangle"]
 	path = logdevice/external/wangle
-	url = https://github.com/facebook/wangle/
+	url = https://gitee.com/shana89/wangle.git
 [submodule "logdevice/external/fbthrift"]
 	path = logdevice/external/fbthrift
-	url = https://github.com/facebook/fbthrift/
+	url = https://gitee.com/shana89/fbthrift.git
